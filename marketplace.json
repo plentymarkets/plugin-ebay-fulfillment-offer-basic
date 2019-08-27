@@ -1,0 +1,13 @@
+{
+    "marketplaceName"   : {
+        "de":"ebay Fulfillment Einrichten in plentymarkets",
+        "en":"ebay Fulfillment setup in plentymarkets"
+    },
+    "license"           : "AGPL-3.0",
+    "price"             : 99.00,
+    "shortDescription"  : {
+        "de":"Wir helfen dir bei deiner eBay Fulfillment-Anbindung.",
+        "en":"We help you with your eBay fulfillment connection."
+    },
+    "categories"        : ["3889"]
+}
