@@ -3,8 +3,8 @@
 	"name"              : "EbayFulfillmentBasic",
 	"description"       : "Ebay Fulfillment setup in plentymarkets.",
 	"marketplaceName"   : {
-		"de":"ebay Fulfillment Einrichten in plentymarkets",
-		"en":"ebay Fulfillment setup in plentymarkets"
+		"de":"eBay Fulfillment Einrichten in plentymarkets",
+		"en":"eBay Fulfillment setup in plentymarkets"
 	},
 	"license"           : "AGPL-3.0",
 	"price"             : 99.00,
@@ -20,7 +20,7 @@
 	"authorIcon"        : "icon_author_xs.png",
 	"pluginIcon"        : "icon_plugin_xs.png",
 	"type"              : "service",
-	"webhookUrl"		: "https://www.marketplace.plentymarkets.com/rest/service/plenty/purchase",
+	"webhookUrl"		: "https://www.plentymarkets.eu/rest/service/plenty/purchase",
 	"namespace"         : "EbayFulfillmentBasic",
 	"serviceProvider"   : "EbayFulfillmentBasic\\Providers\\EbayFulfillmentBasicServiceProvider",
 	"javaScriptFiles"   : []
